@@ -1,11 +1,11 @@
-# Bosch_route_optimization
+# Bosch_Route_Optimization
 
-Code for winning submission of Bosch's Route Optimization Algorithm at Inter-IIT Techmeet 8.0
+Code for the winning submission to Bosch's Route Optimization Challenge at Inter-IIT Techmeet 8.0
 
 
 ## Algorithm
 
-Our algorithm is based on botton up approach , that is , we will first solve smaller problems , and then we will use their solution to solve bigger problems. We will first represent how our algorithm will work , what do we exactly mean by smaller problems , and how we will be using their solution to solve bigger problems , while optimising our solution as far as possible.
+Our algorithm is based on bottom up approach , that is , we will first solve smaller problems, and then we will use their solution to solve bigger problems. We will first represent how our algorithm will work, what do we exactly mean by smaller problems, and how we will be using their solution to solve bigger problems, while optimising our solution as far as possible.
 
 #### Goal: The optimised way to travel/cover i ( < N) cities.
 
