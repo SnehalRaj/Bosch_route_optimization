@@ -2,12 +2,16 @@
 
 Code for the winning submission to Bosch's Route Optimization Challenge at Inter-IIT Techmeet 8.0
 
+**Project:** To develop a route optimization algorithm that caters to the real time changing demand of customers to determine route and schedule of buses depending on the constraints provided.
 
-## Algorithm
+**Presentation:** The presentation can be found [here](https://github.com/SnehalRaj/Bosch_route_optimization/blob/master/presentation.pdf)
 
-Our algorithm is based on bottom up approach , that is , we will first solve smaller problems, and then we will use their solution to solve bigger problems. We will first represent how our algorithm will work, what do we exactly mean by smaller problems, and how we will be using their solution to solve bigger problems, while optimising our solution as far as possible.
+**Data:** The data can be found [here](http://www.interiittech.org/static/pdfs/BOSCH_PS.pdf)
 
-#### Goal: The optimised way to travel/cover i ( < N) cities.
+
+**Algorithm:** - Our algorithm is based on bottom up approach , that is , we will first solve smaller problems, and then we will use their solution to solve bigger problems. We will first represent how our algorithm will work, what do we exactly mean by smaller problems, and how we will be using their solution to solve bigger problems, while optimising our solution as far as possible.
+
+**Goal:** The optimised way to travel/cover i ( < N) cities.
 
 We will be finding optimised path for covering i+1 cities using solution of i cities.Note that these i cities will be a subset of N cities , i.e. we will be freely choosing any i cities out of these N . The only constraint that we will be varying is the exact number of cities.
 
