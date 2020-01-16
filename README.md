@@ -1,6 +1,6 @@
 # Bosch_Route_Optimization
 
-Code for the winning submission to Bosch's Route Optimization Challenge at Inter-IIT Techmeet 8.0
+Code for the winning submission to [Bosch's Route Optimization Challenge](http://www.interiittech.org/events/bosch.html) at [Inter-IIT Techmeet 8.0](http://www.interiittech.org/)
 
 **Project:** To develop a route optimization algorithm that caters to the real time changing demand of customers to determine route and schedule of buses depending on the constraints provided.
 
