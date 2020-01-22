@@ -1,6 +1,6 @@
 # Bosch_Route_Optimization
 
-Relevant links: [Bosch's Route Optimization Challenge](http://www.interiittech.org/events/bosch.html) [Inter-IIT Techmeet 8.0](http://www.interiittech.org/)
+Relevant links: [Bosch's Route Optimization Challenge](http://www.interiittech.org/events/bosch.html) and [Inter-IIT Techmeet 8.0](http://www.interiittech.org/)
 
 
 **Project:** To develop a route optimization algorithm that caters to the real time changing demand of customers to determine route and schedule of buses depending on the constraints provided.
